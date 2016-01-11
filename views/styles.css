@@ -1,0 +1,45 @@
+/*Marika's CSS*/
+
+#sunny {
+	background-image: url("http://cl.ly/image/0A0p2X423I3A/sunny.png");
+	background-repeat: no-repeat;
+	opacity: .8;
+	background-color: #d9f2ee;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+#cloudy {
+	background-image: url("http://cl.ly/image/1d0D1r2F2m41/cloudy.png");
+	background-repeat: no-repeat;
+	opacity: .8;
+	background-color: #d9f2ee;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+#snowy {
+	background-image: url("http://cl.ly/image/0c2I3I1r3t1T/snowy.png");
+	background-repeat: no-repeat;
+	opacity: .8;
+	background-color: #d9f2ee;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+#rainy {
+	background-image: url("http://cl.ly/image/3R3L2G251a3L/rainy.png");
+	background-repeat: no-repeat;
+	opacity: .8;
+	background-color: #d9f2ee;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+#default {
+background-image: url("http://cl.ly/image/3a0Z2m2O2I2r/map.png");
+}
+
+#home{
+background-image: url("http://cl.ly/image/3a0Z2m2O2I2r/map.png");
+}
